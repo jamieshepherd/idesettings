@@ -2,11 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="42a5f5" />
-    <option name="selectedTheme" value="ARC_DARK" />
-    <option name="userId" value="-5ca2b01e:16ac18ea075:-8000" />
-    <option name="version" value="3.9.4" />
+    <option name="userId" value="336886fd:1687cf0404e:-8000" />
+    <option name="version" value="3.9.1" />
   </component>
 </application>
