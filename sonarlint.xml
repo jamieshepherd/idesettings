@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar-s3:9000" />
+          <token>df99df9fdf98df92dfc8dfc8df9ddfcbdf9edf9ddf9edf9edf93dfcbdf9cdfc9df92df9fdf98dfcfdf9bdf98df9ddfcedf9cdf9cdf9edf99df9ddfc9dfccdf9adf93dfc8df9bdfcbdf9edf92df98df92</token>
+          <option name="name" value="Wikia" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
