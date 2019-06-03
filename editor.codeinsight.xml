@@ -1,5 +1,5 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
+  <component name="Go">
+    <option name="detectGoPackageFromClipboard" value="false" />
   </component>
 </application>
