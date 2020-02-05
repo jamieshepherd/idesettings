@@ -3,8 +3,8 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://sonar-s3:9000" />
-          <token>df99df9fdf98df92dfc8dfc8df9ddfcbdf9edf9ddf9edf9edf93dfcbdf9cdfc9df92df9fdf98dfcfdf9bdf98df9ddfcedf9cdf9cdf9edf99df9ddfc9dfccdf9adf93dfc8df9bdfcbdf9edf92df98df92</token>
+          <option name="hostUrl" value="http://sonarqube.sjc-dev.k8s.wikia.net/" />
+          <token>dfccdf9fdf9fdf9ddfcbdfc9dfcbdf93df9cdfc9dfcbdf9edfc8dfccdfccdf9bdfcfdfc9df9edf98dfc8df9ddfcedfccdfcfdfcedf9cdf9bdf99df92dfcedf9cdf98dfc8dfcedf98dfcbdf9cdfcbdf92</token>
           <option name="name" value="Wikia" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
