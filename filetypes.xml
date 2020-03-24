@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="jake" type="JavaScript" />
       <mapping ext="php" type="PHP" />
+      <mapping pattern="Jenkinsfile-*" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile-test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
