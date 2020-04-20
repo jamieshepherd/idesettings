@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="jake" type="JavaScript" />
-      <mapping ext="php" type="PHP" />
       <mapping pattern="Jenkinsfile-*" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
