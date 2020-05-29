@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="config" type="Config" />
       <mapping ext="jake" type="JavaScript" />
       <mapping pattern="Jenkinsfile-*" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-local" type="PLAIN_TEXT" />
@@ -8,7 +9,9 @@
       <mapping pattern="Jenkinsfile-lint" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile-test" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="config" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
