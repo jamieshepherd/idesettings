@@ -1,21 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="ng" type="HTML" />
       <mapping ext="jake" type="JavaScript" />
       <mapping pattern="Jenkinsfile-*" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile-test" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile-lint" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-local" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile-lint" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="tsconfig.e2e.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.lib.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.spec.json" type="tsconfig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />

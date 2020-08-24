@@ -8,11 +8,10 @@
     <ignoreAction name="Flow JS/Specify variable type explicitly" />
     <ignoreAction name="HTTP Client/Generate request in HTTP Client" />
     <ignoreAction name="HTTP Client/Move HTTP Requests" />
-    <ignoreAction name="Language injection/Edit injected fragment" />
-    <ignoreAction name="Language injection/Edit injection settings" />
-    <ignoreAction name="Language injection/Inject language or reference" />
-    <ignoreAction name="Language injection/Uninject language or reference" />
+    <ignoreAction name="JSON/Sort properties alphabetically" />
     <ignoreAction name="LightEdit mode/Open file in project..." />
+    <ignoreAction name="Markdown/Hide errors in code fences" />
+    <ignoreAction name="Other/Flip ','" />
     <ignoreAction name="RegExp/Check RegExp" />
     <ignoreAction name="Shell script/Explain shell" />
     <ignoreAction name="Shell script/Rename all occurrences" />
