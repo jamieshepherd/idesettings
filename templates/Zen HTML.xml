@@ -97,10 +97,6 @@
   <template name="link" value="&lt;link rel=&quot;stylesheet&quot; href=&quot;$END$&quot;&gt;" description="&lt;link rel=&quot;stylesheet&quot; href=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="link:css" value="&lt;link rel=&quot;stylesheet&quot; href=&quot;$STYLE$.css&quot; &gt;" description="&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; &gt;" toReformat="true" toShortenFQNames="true">
-    <variable name="STYLE" expression="" defaultValue="&quot;style&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
   <template name="link:import" value="&lt;link rel=&quot;import&quot; href=&quot;$HTML$.html&quot;&gt;" description="&lt;link rel=&quot;import&quot; href=&quot;&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="HTML" expression="" defaultValue="&quot;component&quot;" alwaysStopAt="true" />
     <context />
