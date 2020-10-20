@@ -29,5 +29,7 @@
     <entry key="show.diff.preview.as.editor.tab.with.single.click" value="true" />
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
+    <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
 </application>
