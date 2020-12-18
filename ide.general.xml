@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
     <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
@@ -29,7 +30,7 @@
     <entry key="show.diff.preview.as.editor.tab.with.single.click" value="true" />
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
+    <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
 </application>
