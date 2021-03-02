@@ -1,8 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="AUTO_DETECTED" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
