@@ -1,9 +1,9 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="_redirects" type="AUTO_DETECTED" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
