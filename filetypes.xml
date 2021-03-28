@@ -4,10 +4,10 @@
       <mapping pattern="_redirects" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile-test" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile-lint" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile-deploy" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile-lint" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
