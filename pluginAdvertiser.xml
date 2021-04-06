@@ -694,11 +694,47 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.fs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
+              <option name="myPluginName" value="F# Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.fsi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
+              <option name="myPluginName" value="F# Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.fsproj">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.fsscript">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
+              <option name="myPluginName" value="F# Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.fsx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
+              <option name="myPluginName" value="F# Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1436,6 +1472,24 @@
             <plugin>
               <option name="myPluginId" value="name.kropp.intellij.makefile" />
               <option name="myPluginName" value="Makefile support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
+              <option name="myPluginName" value="F# Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mli">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
+              <option name="myPluginName" value="F# Support" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
