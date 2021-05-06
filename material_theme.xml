@@ -3,7 +3,6 @@
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="premium" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
@@ -11,6 +10,6 @@
     <option name="pristineConfig" value="false" />
     <option name="accentColor" value="009688" />
     <option name="userId" value="59d2a4af:16f98d360fb:-8000" />
-    <option name="version" value="6.4.0.3" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
