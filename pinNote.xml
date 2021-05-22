@@ -1,0 +1,9 @@
+<application>
+  <component name="PinNote">
+    <option name="localNotebookState">
+      <LocalNotebookState>
+        <option name="enable" value="true" />
+      </LocalNotebookState>
+    </option>
+  </component>
+</application>
