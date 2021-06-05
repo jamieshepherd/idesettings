@@ -37,6 +37,11 @@
                       <FeaturePluginData displayName=".NET Project" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="DotNetPublishAndUpload">
+                    <value>
+                      <FeaturePluginData displayName="Publish to custom server" pluginName="Support for publishing to custom servers" pluginId="com.jetbrains.rider.publish.webDeploy" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="DotNetStaticMethod">
                     <value>
                       <FeaturePluginData displayName=".NET Static Method" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
@@ -80,6 +85,11 @@
                   <entry key="UwpProject">
                     <value>
                       <FeaturePluginData displayName="UWP" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="XSLT">
+                    <value>
+                      <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
                     </value>
                   </entry>
                   <entry key="XamarinIOSProject">
