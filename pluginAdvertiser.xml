@@ -67,16 +67,6 @@
                       <FeaturePluginData displayName="Native Executable" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="RunUnityExe">
-                    <value>
-                      <FeaturePluginData displayName="Standalone Player" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="UNITY_DEBUG_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="Attach to Unity Editor" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="Uproject">
                     <value>
                       <FeaturePluginData displayName="Uproject" pluginName="Support for C++ Language" pluginId="com.jetbrains.rider-cpp" bundled="true" />
