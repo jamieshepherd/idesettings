@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonarqube.sjc-dev.k8s.wikia.net/" />
+          <token>dfccdf9fdf9fdf9ddfcbdfc9dfcbdf93df9cdfc9dfcbdf9edfc8dfccdfccdf9bdfcfdfc9df9edf98dfc8df9ddfcedfccdfcfdfcedf9cdf9bdf99df92dfcedf9cdf98dfc8dfcedf98dfcbdf9cdfcbdf92</token>
+          <option name="name" value="Wikia" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
