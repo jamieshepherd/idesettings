@@ -22,6 +22,11 @@
                       <FeaturePluginData displayName="C++ Project" pluginName="Support for C++ Language" pluginId="com.jetbrains.rider-cpp" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="DatabaseScript">
+                    <value>
+                      <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="DotNetFolderPublish">
                     <value>
                       <FeaturePluginData displayName="Publish to folder" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
@@ -67,9 +72,19 @@
                       <FeaturePluginData displayName="Native Executable" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="TSqltConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="Uproject">
                     <value>
                       <FeaturePluginData displayName="Uproject" pluginName="Support for C++ Language" pluginId="com.jetbrains.rider-cpp" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="UtPlSqlConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
                   <entry key="UwpProject">
