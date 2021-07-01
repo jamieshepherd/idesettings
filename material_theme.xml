@@ -1,8 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
     <option name="premium" value="true" />
-    <option name="accentColor" value="416a9b" />
-    <option name="selectedTheme" value="NATIVE" />
-    <option name="userId" value="65511732:17a639e5505:-8000" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="indicatorStyle" value="None" />
+    <option name="accentColor" value="009688" />
+    <option name="userId" value="-43758c3d:1794d36b6a6:-8000" />
   </component>
 </application>

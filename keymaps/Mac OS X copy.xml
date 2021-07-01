@@ -1,0 +1,12 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="ContextHelp" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="TodoViewGroupByShowPackages" />
+</keymap>
