@@ -12,7 +12,8 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.mdx;*.txt; *.rst; *.adoc" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
   </component>
 </application>
