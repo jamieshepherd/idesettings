@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="www" type="AUTO_DETECTED" />
       <mapping pattern="_redirects" type="AUTO_DETECTED" />
+      <mapping ext="jsonnet" type="JSON" />
       <mapping pattern="Jenkinsfile-test" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile-lint" type="PLAIN_TEXT" />
