@@ -24,6 +24,5 @@
     <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="ide.new.project.model" value="true" />
-    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
