@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="www" type="AUTO_DETECTED" />
       <mapping pattern="_redirects" type="AUTO_DETECTED" />
-      <removed_mapping ext="rs" type="Android RenderScript" />
       <mapping ext="jsonnet" type="JSON" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -13,10 +12,10 @@
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile-deploy" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
-      <mapping ext="rs" type="Rust" />
       <mapping ext="yml " type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
